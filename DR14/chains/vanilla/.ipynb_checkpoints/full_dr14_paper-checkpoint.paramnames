@@ -1,0 +1,15 @@
+ap   \alpha_{||}
+at   \alpha_\bot
+bias_eta_LYA   b_{\eta Ly\alpha}
+beta_LYA   \beta_{Ly\alpha}
+bias_eta_sii_1   b_{\eta SiII(1190)}
+bias_eta_sii_2   b_{\eta SiII(1193)}
+bias_eta_siii   b_{\eta SiIII(1207)}
+bias_eta_sii_3   b_{\eta SiII(1260)}
+bias_eta_civ   b_{\eta CIV(eff)}
+bias_hcd_lya   b_{HCD}
+beta_hcd   \beta_{HCD}
+beta_qso   \beta_{QSO}
+drp   \Delta r_{||}
+sigma_nu   \sigma_\nu
+qso_rad_strength   \xi^{TP}_0
